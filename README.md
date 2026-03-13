@@ -1,4 +1,4 @@
-# MLflow Lab 1 — Experiment Tracking with California Housing Dataset
+# MLflow Lab — Experiment Tracking with California Housing Dataset
 
 ## Overview
 This lab demonstrates how to use **MLflow** to track machine learning experiments.
